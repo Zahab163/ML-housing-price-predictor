@@ -202,6 +202,3 @@ For collaboration, feedback, or content ideas:
 
 
 
-```bash
-git clone https://github.com/your-username/housing_price_predictor_2025.git
-cd housing_price_predictor_2025
