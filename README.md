@@ -48,11 +48,15 @@ cd housing_price_predictor_2025
 pip install pandas scikit-learn joblib matplotlib seaborn
 ---
 
+
+
 ### 3. Run the Notebook
 Open [housing_price_predictor_2025.ipynb](https://colab.research.google.com/drive/1xROSFCmZp6w2CM9pf-ylUcrCGOxRQ7EQ?usp=sharing) in Jupyter or Google Colab.
 ---
 
-🚀 Predicting New Data
+
+
+##🚀 Predicting New Data
 
 import joblib
 import pandas as pd
@@ -80,14 +84,14 @@ print(f"Predicted Median House Value: ${prediction[0]:,.2f}")
 
 ----
 
-📌 Highlights
+##📌 Highlights
 - 🔥 Correlation heatmap for feature selection
 - 🗺️ Geospatial scatter plot for housing trends
 - 💾 Model and pipeline saved with joblib
 - 🎯 Ready for deployment or integration into web apps
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 Zahabia Ahmed
 Technologist | Educator | Motivator
 Passionate about AI, data science, and creative storytelling.
@@ -95,7 +99,7 @@ Passionate about AI, data science, and creative storytelling.
 
 ---
 
-📬 Contact
+##📬 Contact
 For collaboration, feedback, or content ideas:
 📧 zahabia0ahmed@gmail.com
 📺 YouTube: [Zahabia Ahmed](http://www.youtube.com/@ZahabiaAhmed)
