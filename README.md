@@ -1,4 +1,4 @@
-# -ML-housing-price-predictor
+# ML-housing-price-predictor
 # 🏡 California Housing Price Predictor 2025
 
 This project uses machine learning to predict median house values across California based on housing and demographic features. It includes data preprocessing, model training, evaluation, and deployment using `joblib`.
